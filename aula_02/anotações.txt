@@ -1,0 +1,14 @@
+Conceitos basicos git
+
+- Repositorio -> é um diretorio chamado .git dentro da pasta do projetos
+
+- Commit -> salvamento, a ultima ação que aconteceu, não apenas salvar arquivo, mas sim oq foi feito, pode ter vários commits
+(marco historico, cada ação deve ser comitada para não perder)
+
+Estados dos arquivos:
+- Modified -> arquivos alterados
+- Staging  -> arquivos prontos para serem eviados
+- Committed -> arquivos salvos, ou seja, commitados
+
+Branch -> é uma versão do projeto, pode ter vários branches
+(é o conceito das pastas, é como se fosse uma copia do projeto)

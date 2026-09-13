@@ -1,0 +1,18 @@
+Instação do git
+
+git --version -> mostra a versão do git
+
+git config --global --list -> mostra as configurações do git
+
+git config --global user.name "Lucas Sales" -> configura o nome do usuário
+
+git config --global user.email "ssales.luca@gmail.com" -> configura o email do usuário
+
+
+cd aula_03 -> entra na pasta aula_03
+
+cd .. -> volta para a pasta anterior
+
+mkdir teste -> cria uma pasta chamada teste
+
+rmdir teste -> remove uma pasta chamada teste

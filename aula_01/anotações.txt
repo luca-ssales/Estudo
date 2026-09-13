@@ -1,0 +1,11 @@
+Introdução ao Git e GitHub, oque é, onde vai ficar, oq faz...
+
+Dividir os projetos em versões
+
+-projeto v1
+-projeto v2
+-projeto v2_final
+-projeto v2_final_final
+-projeto v3_final
+...etc
+
